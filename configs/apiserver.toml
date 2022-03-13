@@ -1,0 +1,4 @@
+BindAddr = ":8080"
+
+[store]
+DataBaseURL = "host=localhost dbname=dockerBooksDB sslmode=disable"
